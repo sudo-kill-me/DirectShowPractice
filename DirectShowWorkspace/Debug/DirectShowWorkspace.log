@@ -1,0 +1,3 @@
+﻿  WebCam.cpp
+D:\1_Programming\1_C++\DirectShowWorkspace\DirectShowWorkspace\WebCam.cpp(106,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  DirectShowWorkspace.vcxproj -> D:\1_Programming\1_C++\DirectShowWorkspace\Debug\DirectShowWorkspace.exe
